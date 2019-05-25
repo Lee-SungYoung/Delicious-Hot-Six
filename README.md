@@ -9,3 +9,7 @@
 ##### CVE-2019-1002101
 ##### CVE-2019-9946
 ##### CVE-2018-1002105
+
+
+# 개인 블로그
+##### 권승민 - https://blog.naver.com/in_reasona || https://inreason.tistory.com/
