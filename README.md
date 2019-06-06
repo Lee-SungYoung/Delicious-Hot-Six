@@ -4,6 +4,9 @@
 ##### Team Members is : K-Shield Jr. 2기 - | 이건주 | 안지원 | 이성영 | 이정훈 | 권승민 |
 ##### Tema Project Subject is : 쿠버네티스 취약점 분석 도구
 
+## 쿠버네티스 취약점 분석 도구 사용
+http://hotsix.kro.kr
+
 
 # 분석할 CVE 목록
 ##### CVE-2019-1002101
