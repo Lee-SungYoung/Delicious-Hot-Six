@@ -18,11 +18,11 @@ def getHash(path, blocksize=65536):
     afile.close()
     return hasher.hexdigest()
 
-file = sys.argv[1]
+file = 'tar'
 
-if os.path.exists(file):
+if os.path.exists(file)
     fileHash = getHash(file)
-    tar1 = '68b3f069b0d313789bc63483192bca6c'
+    tar1 = '68b3f069b0d313789bc63483192bca6c' #kubernetes hash
     tar2 = fileHash
 
 if tar1 == tar2:
